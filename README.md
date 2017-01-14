@@ -1,6 +1,6 @@
 # Project
 
-My source code detects the 'fist' using the Haar cascade (OpenCV) mentioned in the below link via the video cam. Based on the fist position the mouse pointer is assigned the location and the process repeats in infinite loop. As a result we can control the mouse using the fist gesture 
+The source code detects the 'fist' using the Haar cascade (OpenCV) mentioned in the below link via the video cam. Based on the fist position the mouse pointer is assigned the location and the process repeats in infinite loop. As a result we can control the mouse using the fist gesture 
 
 The code is still in early stage of development and has a lot of scope for improvement.
 
